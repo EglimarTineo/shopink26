@@ -1,8 +1,3 @@
-[submodule "localizacion_binaural"]
-	path = localizacion_binaural
-	url = git@github.com:binaural-dev/odoo-venezuela.git
-	branch = 19.0
-
 [submodule "EglimarTineo/odoo-venezuela"]
 	path = EglimarTineo/odoo-venezuela
 	url = git@github.com:EglimarTineo/odoo-venezuela.git
